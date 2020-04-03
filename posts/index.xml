@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 吴佳乐的博客</title>
-    <link>http://example.org/posts/</link>
+    <link>http://wujiale.cool/posts/</link>
     <description>Recent content in Posts on 吴佳乐的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Fri, 03 Apr 2020 14:35:56 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wujiale.cool/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第二篇博客</title>
-      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://wujiale.cool/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 03 Apr 2020 14:35:56 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>http://wujiale.cool/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>用hugo搭建个人博客的步骤： 1.先去官网下载hugo并解压，将hugo.exe的文件目录加在path中。重启终端，运行hugo version命令行，查看hugo版本。
 2.找一个目录，在终端运行hugo new site github用户名.github.io-creator。
 3.进入刚才创建的creator目录，运行git init ，然后在运行git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke（下载一个默认的主题），在执行echo &amp;lsquo;theme = &amp;ldquo;ananke&amp;rdquo;&amp;rsquo; &amp;raquo; config.toml ，然后执行hugo new posts/博客名.md （创建一篇新的文章）
@@ -27,10 +27,10 @@
     
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://wujiale.cool/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Thu, 02 Apr 2020 16:26:55 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>http://wujiale.cool/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>大家好 我的博客开通了，希望我能写出好文章给大家看。</description>
     </item>
     
